@@ -1,0 +1,31 @@
+body
+{
+  background-color:#2A2A2A;
+  padding-left: 6em;
+  padding-top: 2em;
+}
+
+h
+{
+  font-size:30px;
+  color:#FDFDFD;
+  font-family:Helvetica;
+}
+
+ul
+{
+  font-size:15px;
+  color:#F9F9F9;
+  font-family:Helvetica;
+  padding-bottom: 1em;
+}
+
+#Examples td
+{
+  font-size:15px;
+  color:#F9F9F9;
+  font-family:Helvetica;
+  padding-top: 2em;
+  padding-right: 10em;
+  padding-left: 2em;
+}
